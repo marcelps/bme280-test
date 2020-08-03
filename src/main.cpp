@@ -55,7 +55,7 @@ void setup() {
         while (1) delay(10);
     }
     
-    Serial.println("-- Default Test --");
+    Serial.println("-- Test --");
     delayTime = 1000;
 
     Serial.println();
